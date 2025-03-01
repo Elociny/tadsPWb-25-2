@@ -7,3 +7,31 @@
 
     font-family: "Poppins", serif;
 }
+
+.div {
+    border: 5px solid blue;
+    border-radius: 1rem;
+
+    padding: 1rem;
+    margin: 1rem;
+}
+
+h1 {
+    color: red;
+}
+
+h2.caixa {
+    color: gray;
+}
+
+article p.lorem {
+    color: green;
+}
+
+table {
+    border: 1px solid black;
+}
+
+iframe {
+    border-radius: 1rem;
+}
